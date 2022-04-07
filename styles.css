@@ -1,0 +1,565 @@
+.toppink{
+    height: 10px;
+    width: 100%;
+    background-color: #fe40a0;
+    margin: 0%;
+    padding: 0%;
+}
+.firstleft{
+    height: 50%;
+    width: 50%;
+    background-color: aquamarine;
+}
+.header{
+    height: 70px;
+    width: 100%;
+    margin: 0%;
+    background-color: #fff!important;
+    box-shadow: 0 0 10px 0 #0000005c;
+}
+.header{
+    margin: 0%;
+    display: flex;
+    
+}
+
+.logocover{
+    height: 50px;
+    width: 48%;
+    margin: 10px;
+    display: flex;
+  
+   
+}
+.logocover img{
+    height: 40px;
+    width: 60px;
+    padding-left: 15px;
+    padding-top: 5px;
+    display: flex;
+}
+.ordercover{
+    padding-left: 20px;
+}
+.ordernow{
+    height: 40px;
+    width: 80px;
+    background-color:  #fff!important;
+    text-align: center;
+    padding-top: 16px;
+    
+}
+.ordernow a{
+    text-decoration: none;
+    color: black;
+    font-size:medium;
+    font-weight: 400;
+    line-height: 1.42857143;
+    letter-spacing: 0.7px;
+    font-family: system-ui;
+
+}
+.gifting{
+    height: 40px;
+    width: 100px;
+    background-color:#fff!important  ;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 30px;
+    
+
+}
+.gifting a{
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 1.42857143;
+    letter-spacing: 0.7px;
+    color: black;
+    font-size:medium;
+    font-family: system-ui;
+
+}
+.promotion{
+    height: 40px;
+    width: 160px;
+    background-color:#fff!important  ;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+.promotion a{
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 1.42857143;
+    letter-spacing: 0.7px;
+    color: black;
+    font-size:medium;
+    font-family: system-ui;
+
+}
+.about{
+    height: 40px;
+    width: 120px;
+    background-color:#fff!important  ;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+.about a{
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 1.42857143;
+    letter-spacing: 0.7px;
+    color: black;
+    font-size:medium;
+    padding-right: 20px;
+}
+.location{
+    height: 40px;
+    width: 130px;
+    background-color:#fff!important  ;
+    text-align: left;
+    padding-top: 15px;
+   
+}
+.location a{
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 1.42857143;
+    letter-spacing: 0.7px;
+    color: black;
+    font-size:medium;
+    
+}
+.partner{
+    height: 40px;
+    width: 130px;
+    background-color:#fff!important  ;
+    text-align: left;
+    padding-top: 15px;
+}
+.partner a{
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 1.42857143;
+    letter-spacing: 0.7px;
+    color: black;
+    font-size:medium;
+}
+.freespace{
+    height: 70px;
+    width: 40%;
+    background-color: #fff;
+    display: flex;
+    display: flex;
+}
+.righticon1{
+    height: 70px;
+    width: 50%;
+    background-color:#fff;
+    display: flex;
+    align-items:initial;
+}
+
+.search{
+    font-size: 25px;
+    padding-top: 20px;
+    display: flex;
+    padding-left: 200px;
+}
+.locationcover{
+    width: 70px;
+    height: 60px;
+    align-items: center;
+    background-color: bisque;
+    
+}
+.locationbaskin{
+    height: 40px;
+    width: 120px;
+    background-color: #fff;
+    text-align: center;
+ 
+}
+.locationbaskin a{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-size: medium;
+}
+.usericon{
+     padding-left: 40px;
+     padding-top: 20px;
+
+}
+.usericon a{
+font-size: xx-large;
+font-weight: lighter;
+}
+.carticon a{
+    padding-left: 50px;
+    padding-top: 20px ;
+    font-size: medium;
+    color: #fe40a0;
+}
+.mainslide{
+    height: 600px;
+    width: 100%;
+    background-color: bisque;
+    margin: 0%;
+    padding: 0%;
+   
+}
+.threepic{
+    height: 800px;
+    width: 100%;
+    background-color: #fff;
+    margin-top: -5%;
+    padding: 0%;
+    
+
+}
+.ourmenu{
+    padding-top: 10%;
+    padding-left: 45%;
+    color: #002680;
+}
+.piconeofthree{
+    height: 450px;
+    width: 450px;
+    background-color: black;
+    margin-left: 6.5%;
+   
+}
+.pictwoofthree{
+    height: 450px;
+    width: 450px;
+    background-color: black;
+    margin-left: 6.5%;
+    
+}
+.arrangepic{
+    display: flex;
+}
+.picthreeofthree{
+    height: 450px;
+    width: 450px;
+    background-color: black;
+    margin-left: 6.5%;
+}
+.wordsthree{
+    height: 30px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    font-size: large;
+    color: #005ea6!important;
+   
+}
+.combo{
+    margin-left: 250px;
+}
+.gift{
+    margin-left: 440px;
+}
+.sealed{
+    margin-left: 400px;
+}
+.veiwall{
+    background-color: #fff;
+    height: 40px;
+    width: 100%;
+    margin-top: 60px;
+}
+.buttonview .link{
+    height: 40px;
+    width: 150px;
+    margin-left: 850px;
+    border-radius: 5px;
+    background-color: #fe40a0;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.link a{
+    color: black;
+
+}
+
+.brspecial{
+    background-color: #fff;
+    height: 150px;
+    width: 100%;
+    margin-top: 90px;
+    text-align: center;
+    padding-top: 60px;
+    color: #002680;
+    font-size: 35px;
+
+}
+
+.imagebannerthree{
+    height: 400px;
+    width: 60%;
+    background-color: #fff;
+    margin-left: 350px;
+
+}
+
+
+.imagebannerthree .imageoneoftwo{
+   
+    height: 400px;
+    width: 100%;
+    display: flex;
+   
+}
+.imagetwooftwo{
+    padding-left: 60px;
+    
+}
+.flavours{
+    height: 100px;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+    font-size:  35px;
+    color: #005ea6!important;
+}
+.fourbanner{
+    height: 350px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+}
+
+.frstimg img{
+    height: 300px;
+    width: 420px;
+    background-color: #fff;
+    position: relative;
+    margin-left:40px ;
+    cursor: pointer;
+    
+}
+.fruits{
+    height: 60px;
+    width: 310px;
+    background-color: #fff;
+    margin-top: -3%;
+    position: absolute;
+    margin-left: 250px;
+    padding-left: 10px;
+    padding-top: 5px;
+    box-shadow: 5px 5px 20px 2px #0000005c;
+    cursor: pointer;
+}
+
+.secimg img{
+    height: 300px;
+    width: 420px;
+    background-color: #fff;
+    position: relative;
+    margin-left:200px ;
+    
+}
+.nuts{
+    height: 60px;
+    width: 310px;
+    background-color: #fff;
+    margin-top: -3%;
+    position: absolute;
+    margin-left: 370px;
+    padding-left: 10px;
+    padding-top: 5px;
+    box-shadow: 5px 5px 20px 2px #0000005c;
+}
+.thirdimg img{
+    height: 300px;
+    width: 420px;
+    background-color: #fff;
+    position: relative;
+    margin-left:200px ;
+    
+}
+.choco{
+    height: 60px;
+    width: 310px;
+    background-color: #fff;
+    margin-top: -3%;
+    position: absolute;
+    margin-left: 370px;
+    padding-left: 10px;
+    padding-top: 5px;
+    box-shadow: 5px 5px 20px 2px #0000005c;
+}
+.brstories1{
+    margin-left: 45%;
+    color: #fe419f;
+}
+.brstories{
+    
+    height: 50px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+}
+.line{
+    padding-left: 30px;
+    width: 45%;
+    height: 1px;
+}
+.words{
+    display: flex;
+    margin-top: -20px;
+}
+
+.line2{
+    width: 45%;
+    height: 1px;
+}
+.footerhead{
+    height: 70px;
+    width: 100%;
+    background-color: #002680;
+    padding-top: 20px;
+}
+.footerlogo img{
+    height: 100%;
+    width: 150px;
+    margin-left: 46%;
+}
+.footer{
+    height: 380px;
+    width: 100%;
+    background-color:#fff;
+    display: flex;
+}
+.rewards{
+    height: 345px;
+    width: 200px;
+    background-color: #fff;
+    margin-left: 20px;
+    
+
+}
+.email{
+    color: red;
+    display: flex;
+    
+
+}
+.emailiine{
+    height: 2px;
+    width: 90%;
+
+}
+.menu{
+    height: 380px;
+    width: 200px;
+    background-color:#fff;
+    margin-left: 20%;
+}
+.engage{
+    height: 345px;
+    width: 200px;
+    background-color:#fff;
+    margin-left: 15%;
+
+}
+.followus{
+    height: 300px;
+    width: 300px;
+    background-color:#fff;
+    margin-left: 8%;
+    display: flex;
+}
+.fblogo img{
+    height: 31px;
+    width: 31px;
+    padding-left: 8px;
+    padding-top: 5px;
+
+}
+.twitterlogo img{
+    height: 30px;
+    width: 31px;
+    padding-left: 8px;
+    padding-top: 5px;
+}
+.instalogo img{
+    height: 32px;
+    width: 42px;
+    padding-left: 8px;
+    padding-top: 5px;
+}
+.youtubelogo img{
+    height: 36px;
+    width: 31px;
+    padding-left: 8px;
+    padding-top: 5px;
+}
+.privacy{
+    height: 30px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+}
+.linelast{
+    padding-left: 20px;
+    width: 40%;
+    height: 1px;
+    border: 0%;
+
+}
+.policy{
+    padding-left: 20px;
+    margin-top: -13px;
+    display: flex;
+}
+.terms{
+    padding-left: 20px;
+}
+.sitemap{
+    padding-left: 20px;
+}
+.last{
+    background-color: #fff;
+    height: 60px;
+    width: 100%;
+    display: flex;
+}
+.copyright{
+    margin-left: 46%;
+    padding-top: 10px;
+}
+.pos{
+    margin-left: 41%;
+    position: relative;
+}
+.chatbox{
+    background: rgb(254, 64, 160);
+    height: 52px;
+    width: 52px;
+    cursor: pointer; 
+    border-radius: 50%;
+    justify-content: center; 
+    align-items: center;
+    display: flex;
+    box-shadow: rgba(101, 119, 134, 0.75) 1px 1px 4px;
+    position: fixed;
+    top: 93%;
+
+   
+    
+
+}
+.chaticon{
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+    
+}
